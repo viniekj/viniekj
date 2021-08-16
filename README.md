@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viniekj
 - 👀 I’m interested in making new projects
 - 🌱 I’m currently learning HTML , CSS and JS
--
+
 
 
 
