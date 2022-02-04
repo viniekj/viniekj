@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @viniekj
-- 👀 I’m interested in making new projects
-- 🌱 I’m currently learning HTML , CSS and JS
+👋 Olá, me chamo Vinicius Schuck e estou estudando para ser Fullstack-developer.
+📚 Estou estudando: HTML, CSS, Javascript, Nodejs, React, jquery, bootstrap.
 
 
 
