@@ -1,4 +1,4 @@
-👋 OLÁ,ME CHAMO VINICIUS SCHUCK! <br>
+👋 OLÁ, ME CHAMO VINICIUS SCHUCK! <br>
 📚 Estou estudando para me tornar um Fullstack-developer<br>
 ✔️ Certificado em HTML, CSS, Javascript - PROGRAMADORBR.
 
