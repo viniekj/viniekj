@@ -2,7 +2,7 @@
 📚 Estou estudando para me tornar um Fullstack-developer<br>
 ✔️ Possuo Certificado em HTML, CSS, Javascript.
 
-<a href="https://github.com/rafaballerini">
+<a href="https://github.com/viniekj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniekj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniekj&layout=compact&langs_count=7&theme=dark"/>
   
