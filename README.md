@@ -1,6 +1,6 @@
 👋 OLÁ,ME CHAMO VINICIUS SCHUCK! <br>
 📚 Estou estudando para me tornar um Fullstack-developer<br>
-✔️ Possuo Certificado em HTML, CSS, Javascript.
+✔️ Certificado em HTML, CSS, Javascript - PROGRAMADORBR.
 
 <a href="https://github.com/viniekj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniekj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
