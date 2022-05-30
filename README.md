@@ -1,7 +1,7 @@
 👋 OLÁ, ME CHAMO VINICIUS SCHUCK! <br>
 📚 Estou estudando para me tornar um FrontEnd-developer<br>
-✔️ Conhecimento em HTML, CSS. 
-💻 Aprendendo Javascript,NodeJs e ReactJS
+✔️ Conhecimento em HTML, CSS.<br>
+💻 Aprendendo Javascript,NodeJs e ReactJS<br>
 <a href="https://github.com/viniekj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniekj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniekj&layout=compact&langs_count=7&theme=dark"/>
